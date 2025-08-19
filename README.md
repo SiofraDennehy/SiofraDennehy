@@ -1,9 +1,7 @@
-Welcome to Siofra Dennehy's Github Profile!
-
+Welcome to Siofra Dennehy's Github Profile! /n
 Here is a link to my favourite youtube video for the *vibes* -- <a href = "https://www.youtube.com/watch?v=qs_-emj1qR4"> It's worth watching, I promise :)
 
-*About Me*
-
+*About Me* /n
 I am a student in Software Development with a special interest in Cybersecurity and Quantum Computing. I recently partook in the Qiskit Global Summer School and completed all labs, which intensified my interest in Quantum computing and development. This led me to partake in Q-volution by the group Girls in Quantum and I am currently completing the course "ADEQUATE" by the company Qureca. Once completed, I will dive into "Quantum Sensing and Imaging", a course also run by Qureca along with QTIndu. I also run a Medium page where I do writeups on my latest TryHackMe endevours. I will link this page once I have caught up on my blog posts.  
 
 My current projects include:
