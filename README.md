@@ -29,6 +29,13 @@ Programming Languages I have worked with:
    -  HTML
    -  CSS
 
+IDE's I have worked with:
+  - VS Code
+  - Eclipse
+  - QBraid
+  - Jupyter Notebooks
+
+
 
 
 
