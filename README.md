@@ -54,6 +54,13 @@ I am a student in Software Development with a special interest in Cybersecurity 
 [Qiskit]<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="289d2400-97a9-4626-b378-ac8b8ee26401" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+
+
 
 
 
