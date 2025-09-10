@@ -17,7 +17,7 @@ I am a student in Software Development with a special interest in Cybersecurity 
 - **Malware Lab** – A sandbox to safely analyze malicious code.
 - **Port Scanner** (https://github.com/SiofraDennehy/Automated_Port_Scanner) – Automates Nmap scans and logs results to user-specified files.
 - **Sorting Benchmark** (https://github.com/SiofraDennehy/Sorting-Algorithm-Benchmarking) – Measures and compares sorting algorithm performance.
-- **Multithreaded Chat App** – CLI-based real-time messaging between users.
+- **Multithreaded Chat App** (https://github.com/SiofraDennehy/Terminal-Chat-App) – CLI-based real-time messaging between users.
 - **Similarity Search Tool** – Uses vector embeddings to rewrite text with simpler words.
 
 ---
