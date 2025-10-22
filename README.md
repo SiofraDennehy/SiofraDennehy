@@ -12,6 +12,8 @@ I am a student in Software Development with a special interest in Cybersecurity 
 ---
 ## Certifications
 <img width="100" height="100" alt="qiskit-global-summer-school-2025-quantum-excellence" src="https://github.com/user-attachments/assets/92241bad-3357-4da3-8729-6eeb48665db1" />
+</br> 
+<a href="https://github.com/SiofraDennehy/QGSS-2025-Labs">**Qiskit Global Summer School Labs**
 
 ---
 
