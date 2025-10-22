@@ -7,7 +7,7 @@ Here is a link to my favourite youtube video for the *vibes* -- <a href = "https
 ---
 
 ## About Me </br>
-I am a student in Software Development with a special interest in Cybersecurity and Quantum Computing. I recently partook in the Qiskit Global Summer School and completed all labs, which intensified my interest in Quantum computing and development. This led me to partake in Q-volution by the group Girls in Quantum and I am currently completing the course "ADEQUATE" by the company Qureca. Once completed, I will dive into "Quantum Sensing and Imaging", a course also run by Qureca along with QTIndu. I also run a Medium page where I do writeups on my latest TryHackMe endevours. (Link coming soon :) )
+I am a student in Software Development with a special interest in Cybersecurity and Quantum Computing. I recently partook in the Qiskit Global Summer School and completed all labs, which intensified my interest in Quantum computing and development and led me to partake in Q-volution by the group Girls in Quantum. I spend my time working on rooms in TryHackMe and deepening my understanding of Cybersecurity principles. 
 
 ---
 ## Certifications
